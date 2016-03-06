@@ -2,6 +2,10 @@
 This is my first repository for the computational physics lesson.
 
 
+
+
+
+
 The next is the hyperlinks of my exercises.
 ##Exercises
 - [exercise_1]()
