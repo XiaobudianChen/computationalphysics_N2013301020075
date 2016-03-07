@@ -3,7 +3,7 @@
 ##***2016.3.7*** 
  This is my first repository for the Computational Physics lesson.
  
- The Teacher Cai asked us to write anything as we like in **READER.md**,which made me caught in a tangle at first: *what would I going to write?* But then I managed to solve it quickly.
+ The Teacher Cai asked us to write anything as we like in **README.md**,which made me caught in a tangle at first: *what would I going to write?* But then I managed to solve it.
 
 （上面一段英文纯属语言测试,23333!）
 既然README.md没有要求，随意发挥，于是我就码了以下这些内容。
