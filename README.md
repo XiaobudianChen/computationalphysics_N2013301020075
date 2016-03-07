@@ -10,6 +10,8 @@
 
 ### 图片 
 
+首先上传一张我们课程——**计算物理**的课本封面图：
+
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/computational.physics.png)
 
 ### 公式
@@ -36,7 +38,6 @@ signed   | 有符号类型
 unsigned | 无符号类型
 
 ##**The next is the hyperlinks of my exercises.**
-###Exercises
 
 [exercise_1]()
 
