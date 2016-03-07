@@ -2,7 +2,9 @@
 
 ##***2016.3.7*** 
  This is my first repository for the Computational Physics lesson.
+ 
  The Teacher Cai asked us to write anything as we like in **READER.md**,which made me caught in a tangle at first: *what would I going to write?* But then I managed to solve it quickly.
+
 （上面一段英文纯属语言测试,23333!）
 既然READE.md没有要求，随意发挥，于是我就码了以下这些内容。
 
@@ -11,15 +13,19 @@
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/computational.physics.png)
 
 ### 公式
+
 写了些如下所示的公式：
+
  $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
+
  $$
 x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\,.
   $$
 
 ### 表格
+
 看到**Markdown Extra**的一些介绍，就画了一个简单的表格,
 
 Item     | Meaning
@@ -31,8 +37,13 @@ unsigned | 无符号类型
 
 ##**The next is the hyperlinks of my exercises.**
 ###Exercises
+
 [exercise_1]()
+
 [exercise_2]()
+
 [exercise_3]()
+
 [exercise_4]()
+
 [exercise_5]()
