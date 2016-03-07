@@ -7,7 +7,7 @@
 
   The Teacher Cai asked us to write anything as we like in **READER.md**,which made me caught in a tangle at first: *what would I going to write?* But then I managed to solve it quickly.
   
-  （上面一段英文纯属语言测试）
+  （上面一段英文纯属语言测试,23333!）
   既然READE.md没有要求，随意发挥，于是我就码了以下这些内容。
  
 ### 图片 
@@ -23,7 +23,7 @@ $$
 $$
 
 ### 表格
-看到**Markdown Extra**的一些介绍，就画了一个简单的表格
+看到**Markdown Extra**的一些介绍，就画了一个简单的表格,
 
 Item     | Meaning
 -------- | ---
