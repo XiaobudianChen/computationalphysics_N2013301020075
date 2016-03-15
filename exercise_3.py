@@ -107,4 +107,4 @@ for i in range(12):
      print C[i], H[i],E[i],N[i],Z[i],H[i],E[i],N[i],G[i]
 
 运行结果如下：
-![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/“CHENZHENG”.png)
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/CHENZHENG.png)
