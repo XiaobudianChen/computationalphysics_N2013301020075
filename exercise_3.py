@@ -103,5 +103,5 @@ G = ['   @@@@@@@@@@@  ',
      ' @            @ ',
      ' @            @ ',
      '  @@@@@@@@@@@@  ']
-for i in range(12):
+for i in range(11):
      print C[i], H[i],E[i],N[i],Z[i],H[i],E[i],N[i],G[i]
