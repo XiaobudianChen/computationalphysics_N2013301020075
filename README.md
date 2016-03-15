@@ -12,7 +12,7 @@
 
 首先上传一张我们课程——**计算物理**的课本封面图：
 
-[](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/computational.physics.png)
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/computational.physics.png)
 
 ### 公式
 
