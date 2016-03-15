@@ -105,3 +105,5 @@ G = ['   @@@@@@@@@@@  ',
      '  @@@@@@@@@@@@  ']
 for i in range(12):
      print C[i], H[i],E[i],N[i],Z[i],H[i],E[i],N[i],G[i]
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chenz1.png)
