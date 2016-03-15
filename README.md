@@ -43,7 +43,7 @@ unsigned | 无符号类型
 
 [exercise_1](https://github.com/XiaobudianChen/computationalphysics_N2013301020075.git)
 
-[exercise_2]()
+[exercise_2](https://github.com/Ron89/thesaurus_query.vim.git)
 
 [exercise_3]()
 
