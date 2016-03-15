@@ -41,7 +41,7 @@ unsigned | 无符号类型
 
 ##**The next is the hyperlinks of my exercises.**
 
-[exercise_1]()
+[exercise_1](https://github.com/XiaobudianChen/computationalphysics_N2013301020075.git)
 
 [exercise_2]()
 
