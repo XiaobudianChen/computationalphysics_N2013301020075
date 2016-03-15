@@ -45,7 +45,7 @@ unsigned | 无符号类型
 
 [exercise_2](https://github.com/Ron89/thesaurus_query.vim.git)
 
-[exercise_3]()
+[exercise_3](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/exercise_3.py)
 
 [exercise_4]()
 
