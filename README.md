@@ -3,9 +3,9 @@
 ##**The next is the hyperlinks of my exercises.**
 
 [exercise_1](https://github.com/XiaobudianChen/computationalphysics_N2013301020075.git)
-[exercise_2](https://github.com/Ron89/thesaurus_query.vim.git)
-[exercise_3](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/exercise_3)
-[exercise_4](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1)
+_[exercise_2](https://github.com/Ron89/thesaurus_query.vim.git)
+_[exercise_3](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/exercise_3)
+_[exercise_4](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1)
 
 
 
