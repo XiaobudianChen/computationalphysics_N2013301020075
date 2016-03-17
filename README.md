@@ -1,5 +1,17 @@
 # **computationalphysics_N2013301020075**
 
+##**The next is the hyperlinks of my exercises.**
+
+[exercise_1](https://github.com/XiaobudianChen/computationalphysics_N2013301020075.git)
+
+[exercise_2](https://github.com/Ron89/thesaurus_query.vim.git)
+
+[exercise_3](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/exercise_3.py)
+
+[exercise_4]()
+
+[exercise_5]()
+
 ##***2016.3.7*** 
  This is my first repository for the Computational Physics lesson.
  
@@ -38,15 +50,3 @@ short    | 短类型
 long     | 长类型
 signed   | 有符号类型
 unsigned | 无符号类型
-
-##**The next is the hyperlinks of my exercises.**
-
-[exercise_1](https://github.com/XiaobudianChen/computationalphysics_N2013301020075.git)
-
-[exercise_2](https://github.com/Ron89/thesaurus_query.vim.git)
-
-[exercise_3](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/exercise_3.py)
-
-[exercise_4]()
-
-[exercise_5]()
