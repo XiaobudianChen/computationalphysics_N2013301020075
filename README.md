@@ -6,6 +6,7 @@
 __[exercise_2](https://github.com/Ron89/thesaurus_query.vim.git)
 __[exercise_3](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/exercise_3)
 __[exercise_4](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1)
+__[exercise_5]()
 
 
 
