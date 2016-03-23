@@ -4,6 +4,9 @@ Spyder Editor
 
 This is a script file for exercise 1.1 in Chapter 1.
 """
+
+from pylab import *
+import pickle
 #python
 v = []
 t = []
