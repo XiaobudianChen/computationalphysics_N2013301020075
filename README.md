@@ -27,6 +27,7 @@ __[exercise_5]()
 ### 公式
 
 我还写了如下所示的公式：
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 
  $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
