@@ -3,13 +3,13 @@
 
 ##**The next is the hyperlinks of my exercises:**
 
-[exercise_1](https://github.com/XiaobudianChen/computationalphysics_N2013301020075.git)就是本页面和相关Markdown语法的学习
+[exercise_1](https://github.com/XiaobudianChen/computationalphysics_N2013301020075.git)：就是本页面和相关Markdown语法的学习
 
-[exercise_2](https://github.com/Ron89/thesaurus_query.vim.git)对学长的插件进安装并简单练习了一下Python语法
+[exercise_2](https://github.com/Ron89/thesaurus_query.vim.git)：对贺翀师兄的插件进行安装并简单练习了一下Python语法
 
-[exercise_3](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/exercise_3)利用Python语法在屏幕上对自己姓名进行了拼音字母显示
+[exercise_3](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/exercise_3)：利用Python语法在屏幕上对自己姓名进行了拼音字母显示
 
-[exercise_4](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1)第一章作业，选择解决的是1.1
+[exercise_4](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1)：第一章作业，选择解决的是exercise 1.1
 
 [exercise_5]()
 
