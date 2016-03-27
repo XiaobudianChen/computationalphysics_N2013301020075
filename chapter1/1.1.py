@@ -1,13 +1,12 @@
-# -*- coding: utf-8 -*-
 """
 Spyder Editor
 
 This is a script file for exercise 1.1 in Chapter 1.
 """
-
+#python
 from pylab import *
 import pickle
-#python
+#
 v = []
 t = []
 g = 9.8
