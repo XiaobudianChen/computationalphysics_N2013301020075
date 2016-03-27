@@ -6,10 +6,11 @@ This is a script file for exercise 1.1 in Chapter 1.
 #python
 from pylab import *
 import pickle
-#
+#initial
 v = []
 t = []
 g = 9.8
+#input
 dt = float(input('time step='))
 v.append(0)
 t.append(0)
@@ -21,7 +22,7 @@ for i in range(int(end_time/dt)):
     print t[-1],v[-1]
     print >> f,t[-1],v[-1]
 f.close() 
-   
+#plot
 plot(t,v)
 legend(('t','v'))
 title('problem 1.1',fontsize=20)
