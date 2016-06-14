@@ -1,5 +1,7 @@
 # **computationalphysics_N2013301020075**
 ##姓名：陈正  
+##学号：2013301020075
+##班级：13级天眷班
 
 ##**The next is the hyperlinks of my exercises:**
 
