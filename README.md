@@ -9,7 +9,7 @@
 
 [exercise_3](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/exercise_3)：利用Python语法在屏幕上对自己姓名进行了拼音字母显示
 
-[exercise_4](https://www.zybuluo.com/Xiaobudian/note/324344)：第一章作业，选择解决的是exercise 1.1
+[exercise_4](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1/exercise_4)：第一章作业，选择解决的是exercise 1.1
 
 [exercise_5]()：
 
