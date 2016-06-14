@@ -15,6 +15,25 @@
 
 [exercise_6]()
 
+[exercise_7]()
+
+[exercise_8]()
+
+[exercise_9]()
+
+[exercise_10]()
+
+[exercise_11]()
+
+[exercise_12]()
+
+[exercise_13]()
+
+[exercise_14]()
+
+[exercise_15]()
+
+[结课作业]()
 
 ##***2016.3.7*** 
  This is my first repository for the Computational Physics lesson.
