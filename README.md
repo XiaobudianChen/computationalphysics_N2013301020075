@@ -13,29 +13,29 @@
 
 [exercise_4](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1/exercise_4)：第一章作业，选择解决的是exercise 1.1
 
-[exercise_5]()：
+[exercise_5](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1/exercise_5)：
 
-[exercise_6]()：
+[exercise_6](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter2/exercise_6)：
 
-[exercise_7]()：
+[exercise_7](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter2/exercise_7)：
 
-[exercise_8]()：
+[exercise_8](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter3/exercise_8)：
 
-[exercise_9]()：
+[exercise_9](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter3/exercise_9)：
 
-[exercise_10]()：
+[exercise_10](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter3/exercise_10)：
 
-[exercise_11]()：
+[exercise_11](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter4/exercise_11)：
 
-[exercise_12]()：
+[exercise_12](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter4/exercise_12)：
 
-[exercise_13]()：
+[exercise_13](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter5/exercise_13)：
 
-[exercise_14]()：
+[exercise_14](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter6/exercise_14)：
 
-[exercise_15]()：
+[exercise_15](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter7/exercise_15)：
 
-[期末论文]()：
+[期末论文](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/Final-Paper)：
 
 ##***2016.3.7*** 
  This is my first repository for the Computational Physics lesson.
