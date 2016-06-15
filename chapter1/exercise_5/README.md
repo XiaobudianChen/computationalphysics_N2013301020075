@@ -4,6 +4,7 @@
 通常情况下作用在物体上的阻力会随着其速度的增大而增加。一个常见的例子就是跳伞运动员：跳伞的作用就是在空气的作用下增大跳伞员所受到的阻力，而这是比没有跳伞时的阻力大得多，而速度越快阻力越大，最终会达到一个平衡，本文就对这一过程进行讨论研究。
 ##正文
 ###问题分析
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/公式1.png)
 ###代码程序设计
 ###程序实现
 ##结论
