@@ -27,8 +27,8 @@
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/公式2.png)
 
-由此写出完整程序（包含作图语句）。
+由此写出[完整程序](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/exercise_5.py)（包含作图语句）。
 ###程序实现
-运行程序
+运行程序[](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/figure_1.png)
 ##结论
 ##致谢
