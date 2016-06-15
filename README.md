@@ -13,7 +13,7 @@
 
 [exercise_4](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1/exercise_4)：第一章作业，选择解决的是exercise 1.1
 
-[exercise_5](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1/exercise_5)：
+[exercise_5](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1/exercise_5)：对第一章习题1.3进行Euler求解，并细化作图。
 
 [exercise_6](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter2/exercise_6)：
 
