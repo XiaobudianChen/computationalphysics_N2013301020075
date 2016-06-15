@@ -13,7 +13,7 @@
 
 这里a和b是常数。你可以假设a来自于物体所受到的外力（取a=10m/s2），比如落体运动中的地心引力，而b则来自于阻力，注意到阻力是负的（假设b>0）,而且其随着速度同数量级增长。
 
-对公式进行Euler展开有（略去高次项）
+对公式进行Euler展开有（略去高次项）：
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/公式3.png)
 
@@ -23,7 +23,7 @@
 
 这就是待计算的迭代方程。
 ###代码程序设计
-由分析所得，运用Euler法，程序语言简化为
+由分析所得，运用Euler法，程序语言简化为：
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/公式2.png)
 
@@ -43,4 +43,4 @@
 
 当然，这些结论都基于下落距离足够大。
 ##致谢
-感谢[二愣](https://github.com/zilongstein/computationalphysics_N2013301020055)同学的代码支持！
+感谢[陈一恒](https://github.com/zilongstein/computationalphysics_N2013301020055)同学的代码支持！
