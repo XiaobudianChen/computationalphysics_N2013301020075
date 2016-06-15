@@ -9,6 +9,7 @@
 ###问题分析
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/公式1.png)
 ###代码程序设计
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/公式2.png)
 ###程序实现
 ##结论
 ##致谢
