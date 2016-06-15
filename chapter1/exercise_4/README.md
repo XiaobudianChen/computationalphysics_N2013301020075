@@ -9,7 +9,7 @@
 这里加速度满足![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/公式2.png).
 ##正文
 ###算法设计
-首先由Euler法设计出源代码，即利用迭代计算法写出程序框架；
+首先由Euler法设计出源代码，即把常微分方程化差分方程并由此写出程序框架；
 然后由待解常微分方程写出程序具体形式,为[1.1.py](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/1.1.py)。
 ###参数设置
 由题，加速度已设，假设近地面自由落体初速度v=0,时间由t=0到t=10s。
