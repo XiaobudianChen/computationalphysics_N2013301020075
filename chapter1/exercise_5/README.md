@@ -17,9 +17,9 @@
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/公式3.png)
 
-整理可得
+整理可得：
 
-![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/公式4.png）
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/公式4.png)
 
 这就是待计算的迭代方程。
 ###代码程序设计
