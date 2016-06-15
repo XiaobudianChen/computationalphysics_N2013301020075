@@ -11,7 +11,7 @@
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/公式1.png)
 
-这里a和b是常数。你可以假设a来自于物体所受到的外力，比如落体运动中的地心引力，而b则来自于阻力，注意到阻力是负的（假设b>0）,而且其随着速度同数量级增长。
+这里a和b是常数。你可以假设a来自于物体所受到的外力（取a=10m/s2），比如落体运动中的地心引力，而b则来自于阻力，注意到阻力是负的（假设b>0）,而且其随着速度同数量级增长。
 
 对公式进行Euler展开有（略去高次项）
 
@@ -29,6 +29,18 @@
 
 由此写出[完整程序](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/exercise_5.py)（包含作图语句）。
 ###程序实现
-运行程序[](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/figure_1.png)
+运行程序,可得如下图示结果：
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_5/figure_1.png)
+
+该图反映了初速度为0和30m/s两种情况下的速度与时间关系，并附上初速度为0时的理论解作对比。
 ##结论
+在这个跳伞模型中，由程序结论图可以看出：
+- 速度小于最终自由沉降速度时，速度会不断增大，但增大幅度不断减小，直至达到最大沉降速度后匀速下落；
+- 速度大于最终自由沉降速度时，速度会不断减小，但减小幅度也随之减小，直至达到自由沉降速度后匀速下落。
+
+由附加的理论解可以看出实验Euler解基本吻合。
+
+当然，这些结论都基于下落距离足够大。
 ##致谢
+感谢[二愣](https://github.com/zilongstein/computationalphysics_N2013301020055)同学的代码支持！
