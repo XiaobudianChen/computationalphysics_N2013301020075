@@ -15,7 +15,7 @@
 
 [exercise_5](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter1/exercise_5)：对第一章习题1.3（考虑空气阻力的落体运动）进行Euler求解，并细化作图。
 
-[exercise_6](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter2/exercise_6)：
+[exercise_6](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter2/exercise_6)：计入风阻和空气密度不均情况下的炮弹轨迹分析。
 
 [exercise_7](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter2/exercise_7)：
 
