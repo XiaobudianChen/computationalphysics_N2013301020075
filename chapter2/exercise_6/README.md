@@ -8,4 +8,5 @@
 ##正文
 ##结论
 ##致谢
-- 老师的[代码示例](https://github.com/caihao/computational_physics_whu/tree/master/chapter2)
+- 老师的[代码示例](https://github.com/caihao/computational_physics_whu/tree/master/chapter2)；
+- [丁冬冬](https://www.zybuluo.com/Memorieddd/note/365009)同学的代码支持。
