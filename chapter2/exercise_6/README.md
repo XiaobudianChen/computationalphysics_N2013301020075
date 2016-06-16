@@ -8,3 +8,4 @@
 ##正文
 ##结论
 ##致谢
+- 老师的[代码示例](https://github.com/caihao/computational_physics_whu/tree/master/chapter2)
