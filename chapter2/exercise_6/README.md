@@ -13,7 +13,25 @@
 一般情况下（不考虑科里奥利力），炮弹运动方程可以分解为垂直方向上的两个二阶常微分方程，求解这两个方程可以对炮弹的运动过程进行相应的研究。
 ##正文
 假设重力加速度为![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式1.png)
+###无空气阻力
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.1.png)
+
+###有均匀的空气阻力
+
+####空气阻力系数一定
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.2.png)
+
+####发射角一定
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.3.png)
+
+###有变化的空气阻力
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.4.png)
+
 ##结论
 ##致谢
 - 老师的[代码示例](https://github.com/caihao/computational_physics_whu/tree/master/chapter2)；
-- [丁冬冬](https://www.zybuluo.com/Memorieddd/note/365009)同学的代码支持。
+- [丁冬冬](https://www.zybuluo.com/Memorieddd/note/365009)同学的代码参考。
