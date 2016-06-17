@@ -12,8 +12,21 @@
 
 一般情况下（不考虑科里奥利力），炮弹运动方程可以分解为垂直方向上的两个二阶常微分方程，求解这两个方程可以对炮弹的运动过程进行相应的研究。
 ##正文
-假设重力加速度为![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式1.png)
+假设重力加速度为![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式1.png),初速度v=1000m/s,则分别从以下几种情况讨论炮弹落点与相关影响因素的关系。
 ###无空气阻力
+无空气阻力的情况下，水平x方向不受力，设发射角度为θ，则有：
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式2.png)
+
+落地时有：
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式3.png)
+
+求解得：
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式4.png)
+
+
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.1.png)
 
