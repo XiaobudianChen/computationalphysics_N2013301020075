@@ -32,8 +32,7 @@
 
 　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式5.png)
 
-
-
+　　选择角度30°~60°（每隔5°取值）
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.1.png)
 
