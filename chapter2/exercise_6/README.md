@@ -34,6 +34,7 @@
 
 
 
+
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.1.png)
 
 ###有均匀的空气阻力
