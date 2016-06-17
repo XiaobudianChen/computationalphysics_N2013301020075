@@ -9,8 +9,8 @@
 ##背景介绍
 　　近地面自由落体运动的速度*v*与时间*t*的关系满足下式：
 
-　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/公式1.png)
-这里加速度满足![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/公式2.png).
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/公式1.png)，
+这里加速度满足![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/公式2.png)。
 ##正文
 ###算法设计
 　　首先由Euler法设计出源代码，即把常微分方程化差分方程并由此写出程序框架；
