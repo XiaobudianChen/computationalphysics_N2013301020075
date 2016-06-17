@@ -37,9 +37,17 @@
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.1.png)
 
 ###有均匀的空气阻力
+　　考虑空气阻力的情形下，假设空气均匀分布，即阻力一定，由空气阻力与速度的关系式![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式6.png)可得：
 
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式7.png),
 
+　　由此可得炮弹的运动方如下：
+
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式8.png)
+
+　　由此可见，此时影响炮弹射程的除了初始发射角度外，空气的稠密程度（对应于不同的空气阻力）对于射程也有影响。接下来分别控制不变的空气阻力和不变的初始发射角两个变量对炮弹发射轨迹进行分析。
 ####空气阻力系数一定
+　　空气阻力系数一定，假设![]()
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.2.png)
 
