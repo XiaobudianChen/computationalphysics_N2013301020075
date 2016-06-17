@@ -32,11 +32,12 @@
 
 　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式5.png)
 
-　　选择角度30°~60°（每隔5°取值）
+　　选择角度30°~60°（每隔5°取值）,由Euler法求出数值解，并绘出相应发射角度下的炮弹运动轨迹：
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.1.png)
 
 ###有均匀的空气阻力
+
 
 ####空气阻力系数一定
 
@@ -51,6 +52,21 @@
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.4.png)
 
 ##结论
+###无空气阻力
+　　从图像我们可以直观地看出对于绝对理想情况下的炮弹发射问题
+- **角度为45°**的发射角度对应于射程最远的情形；
+- **初始发射角度和为90°**的两种情形会得到同样的炮弹射程，但是相对应的炮弹最大高度不一样，角度大的炮弹最大高度相对较高。
+
+###有均匀的空气阻力
+####空气阻力系数一定
+
+
+####发射角一定
+
+
+###有变化的空气阻力
+
+
 ##致谢
 - 老师的[代码示例](https://github.com/caihao/computational_physics_whu/tree/master/chapter2)；
 - [丁冬冬](https://www.zybuluo.com/Memorieddd/note/365009)同学的代码参考。
