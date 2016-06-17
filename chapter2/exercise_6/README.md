@@ -47,7 +47,7 @@
 
 　　由此可见，此时影响炮弹射程的除了初始发射角度外，空气的稠密程度（对应于不同的空气阻力）对于射程也有影响。接下来分别控制不变的空气阻力和不变的初始发射角两个变量对炮弹发射轨迹进行分析。
 ####空气阻力系数一定
-　　空气阻力系数一定，假设![]()
+　　空气阻力系数一定，假设![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式9.png),
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/figure_6.2.png)
 
