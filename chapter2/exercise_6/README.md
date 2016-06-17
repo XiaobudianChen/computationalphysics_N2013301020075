@@ -29,6 +29,7 @@
 　　这即是炮弹发射的水平距离与初始发射角的关系方程。
 　　
 　　转化为迭代微分形式：
+　　
 　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式5.png)
 
 
