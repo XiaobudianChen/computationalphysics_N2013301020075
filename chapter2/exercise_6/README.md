@@ -63,11 +63,13 @@
 
 　　近似认为空气为理想气体，考虑等温模型和绝热近似两种情况下的空气阻力对于炮弹轨迹的影响：
 - 等温模型
+
 　　等温近似下的空气压强满足关系![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式12.png)，其中m是单个空气分子的平均质量，kB是玻尔兹曼常数，y是距离参考点的高度，T是绝对温度，ρ0是海平面（y=0）的空气密度。而对于理想气体可得密度关系为![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式13.png),则运动方程为：
 
 　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式14.png)
 
 - 绝热近似
+
 　　绝热近似下，密度关系为![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式15.png)，可得运动方程为：
 
 　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_6/公式16.png)
