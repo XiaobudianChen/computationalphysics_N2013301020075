@@ -40,15 +40,14 @@
 　　选取Δt=0.1s,再由[画图程序](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/7.2.py)作出不同旋转角速度情况下的棒球运动轨迹（附上无空气阻力时的运动轨迹作比），如下图：
 
 　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/figure_7.1.png)
-
-　　
-
 - 角速度沿垂直方向（3D）
-　　
-[]()
+　　我们再来考虑旋转角速度沿垂直方向，这将使得棒球的飞行偏离发射面而成为一个三维运动轨迹。但是同样可以用Euler法解决方程的求解，运行[程序](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/7.3.py)可得棒球的运动轨迹，作图如下:
 
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/figure_7.2.png)
 
 ##结论
+- 由结果可知，空气阻力大大地减少了棒球的射程，而且棒球自身的倒旋对其射程也有一定的影响；
+- 当旋转角速度在垂直方向上时，棒球的旋转角速度影响了其偏离发射面的程度，而且旋转方向不同带来的偏转也不同。
 ##致谢
 - [vpython](http://www.visualrelativity.com/vpython/)的一些例子；
 - 蔡老师给的[代码示例](https://github.com/caihao/computational_physics_whu/tree/master/chapter1)；
