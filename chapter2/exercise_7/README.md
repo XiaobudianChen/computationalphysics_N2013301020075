@@ -6,13 +6,30 @@
 > 建议：可参考一些[例子](http://www.visualrelativity.com/vpython/)
 
 ##摘要
-　　拓展第六次作业的抛体运动，在考虑棒球旋转的情况下就棒球的运动轨迹进行探究。
+　　本文主要对在考虑棒球旋转的情况下的棒球的运动轨迹进行探究。
 ##背景介绍
-　　棒球
+　　棒球运动是典型的抛体运动，而且相对于第六次作业的炮弹发射模型，棒球的运动还会有额外的受力分析，就是其由于自旋而受到的Magnus力，受力分析图如下：
 
-![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/棒球受力分析图.png)
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/棒球受力分析图.png)
 
+　　对这一模型的综合考虑和分析将会得出棒球运动与求自旋角速度等的关系。
 ##正文
+###运动分析
+　　由棒球的受力图可以得出其运动方程：
+
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/公式1.png)
+
+　　其中m是棒球质量，g是重力加速度，v0是速度方向的单位矢量，ω是棒球旋转角速度。上式中的第二项为空气阻力项，而第三项即为要考虑的Magnus力。在此我们假设S0为一常量，而其中的B2关乎空气阻力，则与速度有关，对其有一近似：
+
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/公式2.png)
+
+　　结合前两式，由Euler法可以得出棒球飞行运动的差分方程组，如下：
+
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/公式3.png)
+
+　　由此即可迭代求出棒球运动的运动轨迹，为减小误差，选择较小的Δt可有利于得出相对更为精确的Euler解。
+###程序实现
+　　
 ##结论
 ##致谢
 - [vpython](http://www.visualrelativity.com/vpython/)的一些例子；
