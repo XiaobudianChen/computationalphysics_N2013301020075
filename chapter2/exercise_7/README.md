@@ -31,19 +31,19 @@
 ###程序实现
 - 角速度沿水平方向
 
-　　我们假设棒球初速度为110mph，发射角度为45°，阻力系数B2/m前式定值，而Magnus力的系数S0/m=4.1E-4,（无空气阻力时两系数均为0），写出相应[计算程序](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/7.1.py),由此可以求出棒球在有无空气阻力下的最大射程及对应发射角：
+　　我们假设棒球初速度为110mph，发射角度为45°，阻力系数B2/m前式定值，而Magnus力的系数S0/m=4.1E-4,（无空气阻力时两系数均为0），写出相应[**计算程序**](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/7.1.py),由此可以求出棒球在有无空气阻力下的最大射程及对应发射角：
 
 阻力有无    | 发射角大小|最大射程
 --------    | ---|-----
 无空气阻力  | 45°|251.9m
 有空气阻力  | 35°|123.2m
 
-　　选取Δt=0.1s,再由[画图程序](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/7.2.py)作出不同旋转角速度情况下的棒球运动轨迹（附上无空气阻力时的运动轨迹作比），如下图：
+　　选取Δt=0.1s,再由[**画图程序**](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/7.2.py)作出不同旋转角速度情况下的棒球运动轨迹（附上无空气阻力时的运动轨迹作比），如下图：
 
 　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/figure_7.1.png)
 - 角速度沿垂直方向（3D）
 
-　　我们再来考虑旋转角速度沿垂直方向，这将使得棒球的飞行偏离发射面而成为一个三维运动轨迹。但是同样可以用Euler法解决方程的求解，运行[程序](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/7.3.py)可得棒球的运动轨迹，作图如下:
+　　我们再来考虑旋转角速度沿垂直方向，这将使得棒球的飞行偏离发射面而成为一个三维运动轨迹。但是同样可以用Euler法解决方程的求解，运行[**程序**](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/7.3.py)可得棒球的运动轨迹，作图如下:
 
 　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/figure_7.2.png)
 
