@@ -37,7 +37,15 @@
 无空气阻力  | 45°|251.9m
 有空气阻力  | 35°|123.2m
 
-[](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/7.2.py)
+　　选取Δt=0.1s,再由[画图程序](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/7.2.py)作出不同旋转角速度情况下的棒球运动轨迹（附上无空气阻力时的运动轨迹作比），如下图：
+
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter2/exercise_7/figure_7.1.png)
+
+　　
+
+- 角速度沿垂直方向（3D）
+　　
+[]()
 
 
 ##结论
