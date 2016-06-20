@@ -7,6 +7,9 @@
 　　振动是自然界中常见的物理现象之一，而作为其中最简单一类的简谐振动（simple harmonic motion）由于其很好的可操作性而备受关注。简谐振动可以通过施加适当的阻尼和驱动力使其变得模式多样化，其中不同的阻尼振动可分为过阻尼运动、欠阻尼运动和临界阻尼运动三种情况。
 　　单摆，作为简谐振动的一个简单模型，对其的研究可以帮助我们了解简谐振动的一般性规律和特性。
 ##正文
+###理想单摆的分析
+####理论分析
+
 　　对单摆的受力分析如下：
 
 　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/单摆受力分析图.png)
@@ -17,11 +20,39 @@
 
 　　对方程求解可得：![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/公式4.png)，
 
-　　其中：![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/公式1.png),θ0和φ是初始状态下的常数。下面分别用Euler法与Euler-Cromer法对问题进行求解。
+　　其中：![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/公式5.png),θ0和φ是初始状态下的常数。下面分别用Euler法与Euler-Cromer法对问题进行求解。
 
 - Euler法
+　　由上式我们可以得出单摆运动的一阶方程组：
+
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/公式6.png)
+
+　　通过Euler分布计算方法可得：
+
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/公式7.png)
 
 - Euler-Cromer法
+　　考虑到系统能量的守恒，![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/公式8.png),且同样有小角近似，可得：
+
+　　![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_8/公式9.png)
+
+　　可以得到Euler-Cromer法的分布计算公式如下：
+
+　　![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_8/公式10.png)
+
+　　由上式可以看出两种方法的公式区别在于θ的由来不一样。
+
+####程序实现
+
+　　由上面两种方法作为算法，假设摆长为l=1m，初始角度为θ0=10°，设计[**程序**](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/8.1.py)并作图。分别选择时间间隔Δt=0.05s和0.01s,得出曲线图如下：
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/figure_8.1.png);![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/figure_8.2.png)
+
+###其它摆的分析
+####阻尼摆
+
+　　
+####驱动摆
 
 
 ##结论
