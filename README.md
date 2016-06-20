@@ -14,11 +14,11 @@
 - [exercise_7](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter2/exercise_7)：考虑倒旋的棒球运动模型的分析
 - [exercise_8](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter3/exercise_8)：利用Euler与Euler-Cromer法对简谐摆与非简谐摆的探究
 - [exercise_9](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter3/exercise_9)：对简谐摆的混沌现象的研究
-- [exercise_10](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter3/exercise_10)：
-- [exercise_11](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter4/exercise_11)：
-- [exercise_12](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter4/exercise_12)：
-- [exercise_13](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter5/exercise_13)：
-- [exercise_14](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter6/exercise_14)：
+- [exercise_10](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter3/exercise_10)：气象研究中的洛伦兹问题的探究
+- [exercise_11](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter4/exercise_11)：星球运动的相关研究
+- [exercise_12](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter4/exercise_12)：行星三体问题的相关探究
+- [exercise_13](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter5/exercise_13)：Laplace方程的求解与静电势场的研究
+- [exercise_14](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter6/exercise_14)：有关波问题的相关研究
 - [期末论文](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/Final-Paper)：
 
 ##***2016.3.7*** 
