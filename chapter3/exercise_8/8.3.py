@@ -44,6 +44,5 @@ plt.xlabel("time(s)")
 plt.ylabel("$\Theta$(radians)")
 plt.title("driven_pendulum")
 plt.legend(fontsize=6,loc='best')
-plt.savefig("driven_pendulum.png")
 
 plt.show()
