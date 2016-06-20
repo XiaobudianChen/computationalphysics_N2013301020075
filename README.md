@@ -18,7 +18,7 @@
 - [exercise_11](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter4/exercise_11)：星球运动的相关研究
 - [exercise_12](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter4/exercise_12)：行星三体问题的相关探究
 - [exercise_13](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter5/exercise_13)：Laplace方程的求解与静电势场的研究
-- [exercise_14](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter6/exercise_14)：有关波问题的相关研究
+- [exercise_14](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter6/exercise_14)：有关波的相关问题的探究
 - [期末论文](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/Final-Paper)：
 
 ##***2016.3.7*** 
