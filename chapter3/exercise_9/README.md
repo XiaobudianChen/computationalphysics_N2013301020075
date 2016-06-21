@@ -49,15 +49,28 @@
 - 混沌线性的ω-θ曲线
 利用相应[**程序**](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/9.3.py)，画出![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=0.5和![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=1.2时的ω-θ曲线，如下：
 
-![]()
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/figure_9.3.png)
 
+当![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)=0.5时，曲线趋近于一个椭圆；
+当![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)=1.2时，摆的相轨线混乱无章，体现了混沌的非周期性。
 - 分形结构的观察
 
+只选取驱动力周期的整数倍时刻(满足![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式9.png))来对摆的运动进行观察，并把这些相图作出得到庞加莱面，如下图所示([**程序**](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/9.4.py))：
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/figure_9.4.png)
 
 - 周期倍增下的混沌产生
+在![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)=1.2时摆会出现混沌现象，继续增大![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)运行[**程序**](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/9.5.py)，当![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)分别等于1.35,1.44,1.465时得到相应的θ-t曲线，如下：
 
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/figure_9.5.png)
 
+当![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)=1.35时，曲线为单倍周期；
+当![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)=1.44时，曲线为双倍周期；
+当![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)=1.465时，曲线为四倍周期。
+
+可以看出周期倍增可以作为实现混沌的一种机制。
 ##结论
+混沌现象是一种建立于确定性系统，然而貌似随机无章、对初值尤其敏感且有分形特性的一种常见的物理现象。
 ##致谢
 - 感谢[舟舟](https://github.com/1098605130/computationalphysics_N2013301020058)的程序代码和思路
 - 《计算物理》，清华大学出版社
