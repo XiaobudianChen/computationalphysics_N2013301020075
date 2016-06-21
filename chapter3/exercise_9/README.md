@@ -27,8 +27,13 @@
 
 由计算关系式写出[**相应程序**]()，假设![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式5.png),考虑![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式4.png)时的θ-t曲线，如下：
 
-![]()
+![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/figure_9.1.png)
 
+可以看出：
+
+1.当![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=0时，摆为阻尼摆，摆在一段时间后停止运动
+2.当![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=0.5时，摆能很快地进入稳定的周期性摆动状态
+3.当![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=1.2时，摆的运动轨迹随时间变化毫无规律性，出现所谓的混沌现象。
 - 微小扰动下的混沌
 
 
