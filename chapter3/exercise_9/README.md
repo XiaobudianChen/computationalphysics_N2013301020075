@@ -38,10 +38,18 @@
 3.当![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=1.2时，摆的运动轨迹随时间变化毫无规律性，出现所谓的混沌现象。
 - 微小扰动下的混沌
 
-进一步研究混沌现象，假设有两个几乎相同的摆，唯一的区别在于二者摆的初始角度不同。与上面采用相同的参数，给其中一个摆施加一个初始的微小振动，使两摆初始角度相差0.001rad，通过计算得到![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)
+进一步研究混沌现象，假设有两个几乎相同的摆，唯一的区别在于二者摆的初始角度不同。与上面采用相同的参数，给其中一个摆施加一个初始的微小振动，使两摆初始角度相差0.001rad，通过[**程序**](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/9.2.py)计算得到![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式7.png)与时间的关系曲线如下：
+
+![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/figure_9.2.png)
+
+当![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=0.5时，两摆的摆角差随时间变化是有规律的，Δθ会周期性地形成波峰，波峰的连线为一趋势线，满足关系![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式8.png)；
+
+当![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=1.2时，变化毫无规律可循。
 
 - 混沌线性的ω-θ曲线
+利用相应[**程序**](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/9.3.py)，画出![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=0.5和![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=1.2时的ω-θ曲线，如下：
 
+![]()
 
 - 分形结构的观察
 
