@@ -52,6 +52,7 @@
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/figure_9.3.png)
 
 当![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)=0.5时，曲线趋近于一个椭圆；
+
 当![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)=1.2时，摆的相轨线混乱无章，体现了混沌的非周期性。
 - 分形结构的观察
 
@@ -65,7 +66,9 @@
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/figure_9.5.png)
 
 当![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)=1.35时，曲线为单倍周期；
+
 当![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)=1.44时，曲线为双倍周期；
+
 当![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_9/公式6.png)=1.465时，曲线为四倍周期。
 
 可以看出周期倍增可以作为实现混沌的一种机制。
