@@ -32,10 +32,13 @@
 可以看出：
 
 1.当![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=0时，摆为阻尼摆，摆在一段时间后停止运动
+
 2.当![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=0.5时，摆能很快地进入稳定的周期性摆动状态
+
 3.当![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)=1.2时，摆的运动轨迹随时间变化毫无规律性，出现所谓的混沌现象。
 - 微小扰动下的混沌
 
+进一步研究混沌现象，假设有两个几乎相同的摆，唯一的区别在于二者摆的初始角度不同。与上面采用相同的参数，给其中一个摆施加一个初始的微小振动，使两摆初始角度相差0.001rad，通过计算得到![](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/blob/master/chapter3/exercise_9/公式6.png)
 
 - 混沌线性的ω-θ曲线
 
