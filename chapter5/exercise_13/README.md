@@ -19,7 +19,7 @@
 理论分析表明，二维网格化离散的情况下，非边界上的点的电势相等于其周围最近的四个点的电势的平均值。 
 
 在本文中我们使用的方法是relaxation method，这种方法可以用来数值求解以Laplace方程为代表的一类所谓的“椭圆偏微分方程”。relaxation method的三种具体情形包括Jacobi、Gauss-Seidel、simultaneous over-relaxation方法。
-最简单的一种是Jacobi方法。Jacobi方法的精髓是从一个符合边界条件的猜测解开始，通过迭代，使得数值解收敛于真实的解。Jacobi方法的改进版是Gauss-Seidel方法。在计算中，我们总是算完一个点再算另一个点，也就是逐点更新计算结果。该方法主要的改进是在计算某一点的电势时，使用之前的点已经更新后的数据。Gauss-Seidel方法的改进版是simultaneous over-relaxation （SOR）方法。在这种方法中引入了参数alpha，从而增大了收敛速度。
+最简单的一种是Jacobi方法。Jacobi方法的精髓是从一个符合边界条件的猜测解开始，通过迭代，使得数值解收敛于真实的解。Jacobi方法的改进版是Gauss-Seidel方法。在计算中，我们总是算完一个点再算另一个点，也就是逐点更新计算结果。该方法主要的改进是在计算某一点的电势时，使用之前的点已经更新后的数据。Gauss-Seidel方法的改进版是simultaneous over-relaxation （SOR）方法。在这种方法中引入了参数α，从而增大了收敛速度。
 
 - 平行板电容附近的电场
 
