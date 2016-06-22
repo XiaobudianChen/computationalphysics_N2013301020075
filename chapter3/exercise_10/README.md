@@ -55,4 +55,5 @@ Lorenz模型内流体运动显著依赖于驱动r，当改变驱动r的大小时
 ##结论
 混沌现象是极其普遍的，其对于初值的敏感性也是极其严重的，初始阶段的微小扰动都会使得最终结果产生极大误差，这也是即是所谓的“蝴蝶效应”。
 ##致谢
-本文参考了[团长](https://github.com/Tuanzhang0531/computationalphysics_N2013301020065)同学的报告。
+- 计算物理（第二版），清华大学出版社；
+- 本文参考了[团长](https://github.com/Tuanzhang0531/computationalphysics_N2013301020065)同学的报告。
