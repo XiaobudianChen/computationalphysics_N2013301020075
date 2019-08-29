@@ -21,7 +21,7 @@
 - [exercise_14](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter6/exercise_14)：有关波的相关问题的探究
 - [期末论文](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/Final-Paper)
 
-## ***2016.3.7*** 
+### ***2016.3.7*** 
  This is my first repository for the Computational Physics lesson.
  
  The Teacher Cai asked us to write anything as we like in **README.md**,which made me caught in a tangle at first: *what would I going to write?* But then I managed to solve it.
@@ -48,7 +48,7 @@ x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\,.
   $$
 
 然而在StackEdit显示可以的公式在这里却显示不了。求解！
-## ***2019.8.29*** 
+### ***2019.8.29*** 
 这是由于Github的Markdown不支持mathjax的公式渲染。最近大神推荐了适合于Chrome的[#GitHub with MathJax 插件](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima),装完之后上面的公式就可以正常显示了。
 
 ### 表格
