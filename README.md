@@ -49,7 +49,7 @@ x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\,.
 
 然而在StackEdit显示可以的公式在这里却显示不了。求解！
 ### ***2019.8.29*** 
-这是由于Github的Markdown不支持mathjax的公式渲染。最近大神推荐了适合于Chrome的[#MathJax Plugin for Github 插件](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima),装完之后上面的公式就可以正常显示了。
+这是由于Github的Markdown不支持mathjax的公式渲染。最近大神推荐了适合于Chrome的[#MathJax Plugin for Github ](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)插件,装完之后上面的公式就可以正常显示了。
 
 ### 表格
 
