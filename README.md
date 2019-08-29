@@ -38,7 +38,6 @@
 ### 公式
 
 我还写了如下所示的公式：
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 
  $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
@@ -50,7 +49,7 @@ x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\,.
 
 然而在StackEdit显示可以的公式在这里却显示不了。求解！
 ## ***20190829*** 
-这是由于Github的Markdown不支持mathjax的公式渲染。最近有大神推荐了大神推荐了适合于Chrome的[GitHub with MathJax 插件](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima) 装完之后再上面的公式就可以正常显示了。
+这是由于Github的Markdown不支持mathjax的公式渲染。最近有大神推荐了大神推荐了适合于Chrome的[#GitHub with MathJax 插件](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima),装完之后上面的公式就可以正常显示了。
 
 ### 表格
 
