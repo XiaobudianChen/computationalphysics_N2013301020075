@@ -1,9 +1,9 @@
 # **computationalphysics_N2013301020075**
-###姓名：陈正  
-###学号：2013301020075
-###班级：13级天眷班
+### 姓名：陈正  
+### 学号：2013301020075
+### 班级：13级天眷班
 
-##**The next is the hyperlinks of my exercises:**
+## **The next is the hyperlinks of my exercises:**
 
 - [exercise_1](https://github.com/XiaobudianChen/computationalphysics_N2013301020075.git)：就是本页面和相关Markdown语法的学习
 - [exercise_2](https://github.com/Ron89/thesaurus_query.vim.git)：对贺翀师兄的插件进行安装并简单练习了一下Python语法
@@ -21,7 +21,7 @@
 - [exercise_14](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter6/exercise_14)：有关波的相关问题的探究
 - [期末论文](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/Final-Paper)
 
-##***2016.3.7*** 
+## ***2016.3.7*** 
  This is my first repository for the Computational Physics lesson.
  
  The Teacher Cai asked us to write anything as we like in **README.md**,which made me caught in a tangle at first: *what would I going to write?* But then I managed to solve it.
