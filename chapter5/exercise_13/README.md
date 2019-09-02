@@ -1,11 +1,13 @@
 >## 第十三次作业
 - 作业 5.3 5.7 5.16
 
-##摘要
-本文主要介绍采用relaxation method求解计算物理课本习题5.3。
-##背景介绍
-静电势问题是经典电动力学的重要问题。在无源区域，静电势满足Laplace方程，从而只要在一定的边界条件下求解Laplace方程就可以得到静电势的空间分布。 
-##正文
+## 摘要
+本文主要介绍采用relaxation method求解计算物理课本习题5.3。  
+  
+## 背景介绍
+静电势问题是经典电动力学的重要问题。在无源区域，静电势满足Laplace方程，从而只要在一定的边界条件下求解Laplace方程就可以得到静电势的空间分布。   
+  
+## 正文
 在无源区域中，静电势满足Laplace方程： 
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter5/exercise_13/公式1.png)
@@ -39,9 +41,11 @@
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter5/exercise_13/figure_13.3.png)
 
-由图可知，电场线主要从电势高的一侧侧板流向电势低的一侧侧板，板间的电场是均匀的。这与理论相符。
-##结论
-理论来讲，relaxation method三种不同方法迭代速率有一定差别，但是在应对电场的数值计算过程中，所得结果与电磁学理论相符，表明数值方法是可靠的。
-##致谢
+由图可知，电场线主要从电势高的一侧侧板流向电势低的一侧侧板，板间的电场是均匀的。这与理论相符。  
+  
+## 结论
+理论来讲，relaxation method三种不同方法迭代速率有一定差别，但是在应对电场的数值计算过程中，所得结果与电磁学理论相符，表明数值方法是可靠的。  
+  
+## 致谢
 - 计算物理第二版，清华大学出版社；
-- 本文参考了李云龙同学的报告，万分感谢！
+- 本文参考了[李云龙](https://github.com/Tuanzhang0531)同学的报告，万分感谢！
