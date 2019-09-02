@@ -21,6 +21,9 @@
 - [exercise_14](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/chapter6/exercise_14)：有关波的相关问题的探究
 - [期末论文](https://github.com/XiaobudianChen/computationalphysics_N2013301020075/tree/master/Final-Paper)
 
+### ***2019.9.2***
+重新编排了每节作业的**README.md**，修改完善了其中的格式问题。  
+  
 ### ***2016.3.7*** 
  This is my first repository for the Computational Physics lesson.
  
