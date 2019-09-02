@@ -11,6 +11,7 @@
 
 　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/公式1.png)，
 这里加速度满足![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/公式2.png)。
+
 ##正文
 ###算法设计
 　　首先由Euler法设计出源代码，即把常微分方程化差分方程并由此写出程序框架；
@@ -20,6 +21,7 @@
 ###程序实现及作图
 　　取时间间隔为0.1s,运行完整程序,可以得出算得的[近似解1.1.txt](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/1.1.txt)。
 并利用matplotlib库作出相应近似解，图示如下。![图1.1.png](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/1.1.png)
+
 ##结论
 　　可以看出，由Euler法所得的近似解与理论上的精确求解值吻合度极高，很好地得出了近地面自由落体运动的速度与时间的线性关系图像。
 ##致谢
