@@ -1,15 +1,17 @@
 >## 第八次作业
 - 作业3.7 3.8
 
-##摘要
-　　本文主要对比了Euler法和Euler-Cromer法两种方法的不同，并利用这两种方法研究了单摆、阻尼摆及驱动摆的一些性质。
-##背景介绍
+## 摘要  
+　　本文主要对比了Euler法和Euler-Cromer法两种方法的不同，并利用这两种方法研究了单摆、阻尼摆及驱动摆的一些性质。  
+  
+## 背景介绍  
 　　振动是自然界中常见的物理现象之一，而作为其中最简单一类的简谐振动（simple harmonic motion）由于其很好的可操作性而备受关注。简谐振动可以通过施加适当的阻尼和驱动力使其变得模式多样化，其中不同的阻尼振动可分为过阻尼运动、欠阻尼运动和临界阻尼运动三种情况。
 
-　　单摆，作为简谐振动的一个简单模型，对其的研究可以帮助我们了解简谐振动的一般性规律和特性。
-##正文
-###理想单摆的分析
-####理论分析
+　　单摆，作为简谐振动的一个简单模型，对其的研究可以帮助我们了解简谐振动的一般性规律和特性。  
+  
+## 正文  
+### 理想单摆的分析
+#### 理论分析
 
 　　对单摆的受力分析如下：
 
@@ -43,14 +45,14 @@
 
 　　由上式可以看出两种方法的公式区别在于θ的由来不一样。
 
-####程序实现
+#### 程序实现
 
 　　由上面两种方法作为算法，假设摆长为l=1m，初始角度为θ0=10°，设计[**程序**](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/8.1.py)并作图。分别选择时间间隔Δt=0.05s和0.01s,得出曲线图如下：
 
 ![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/figure_8.1.png);![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/figure_8.2.png)
 
-###其它摆的分析
-####阻尼摆
+### 其它摆的分析
+#### 阻尼摆
 
 　　考虑阻尼摆的情况，运动方程可以写为如下：
 
@@ -66,7 +68,7 @@
 
 　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/figure_8.3.png)
 
-####驱动摆
+#### 驱动摆
 
 　　在阻尼摆的运动方程中加入驱动力项就可得到驱动摆的运动方程如下：
 
@@ -81,12 +83,13 @@
 
 - 保持FD=0.4不变，选用不同的ΩD=1.0,2.0,3.0，得到振动图像如下：
 
-　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/figure_8.5.png)
-##结论
-###理想单摆的分析
+　　![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/figure_8.5.png)  
+  
+## 结论
+### 理想单摆的分析
 　　利用Euler法和Euler-Cromer法可以看出，前者得出的曲线与实际并不太符合，摆的振幅和能量都随着时间的增大而增大，偏差也越来越大；而Euler-Cromer法的算的结果则比较吻合，且相对比较稳定，故而后续的分析都采用Euler-Cromer法来进行。
 
-###其它摆的分析
+### 其它摆的分析
 - 阻尼摆
 
 　　由实验结果可以看出，欠阻尼情况下的单摆是以频率为![](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter3/exercise_8/公式15.png)摆动的，并且振幅因为能量的损耗而随时间不断减小直至为０；过阻尼情况下单摆摆角随时间呈指数形式递减；临界阻尼情况下，单摆则恰好不能起振。
@@ -96,6 +99,7 @@
 1.两个变量逐一分析的情况下有一个共同点就是摆在经历一段时间的不稳定后会趋向于稳定在一个单一的振幅和频率情况下摆动，即达到稳定状态。
 
 2.保持Ω不变的情况下，摆在稳定之后摆动的频率一定，振幅有差异；而保持F不变的情况下，稳定时的摆振幅基本相同，频率有所差异。可以看出二者影响着不同的驱动摆特性。
-##致谢
+  
+## 致谢
 - 《计算物理》（第二版），清华大学出版社；
 - [蔡浩](https://github.com/caihao/computational_physics_whu/tree/master/chapter2)老师的代码支持。
