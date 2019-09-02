@@ -18,7 +18,7 @@
 ###参数设置  
 　　由题，加速度已设，假设近地面自由落体初速度v=0,时间由t=0到t=10s。  
 ###程序实现及作图  
-　　取时间间隔为0.1s,运行完整程序,可以得出算得的[近似解1.1.txt] (https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/1.1.txt)。  
+　　取时间间隔为0.1s,运行完整程序,可以得出算得的[近似解1.1.txt](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/1.1.txt)。  
 并利用matplotlib库作出相应近似解，图示如下。![图1.1.png](https://raw.githubusercontent.com/XiaobudianChen/computationalphysics_N2013301020075/master/chapter1/exercise_4/1.1.png)
 
 ##结论  
